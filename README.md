@@ -33,6 +33,12 @@
 - Office: McGill Hall, 232.
 
 
+## Meeting Time and Location
+
+- M/W 2:00pm - 3:20pm
+- McGill 127 & Production Space
+
+
 ## Description
 
 _Interactive Media 2; Performance_ explores the theory and technique of interactive art through the lens of performance systems.
@@ -61,12 +67,27 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Class discussion;
     1. What does interactive mean?
     2. What is an interactive performance?
+- Class discussion;
+    - What is a "digital notebook"
+    - Why you need one
 - **TODO:**
-    - Get the final project performance date your calendar!
+    - Get the final project performance date in your calendar!
+    - Setup (if necessary) a digital "notebook" to collect ideas and inspirations for this class.
+        - These will be shared next class.
+    - Find an inspiring example of interactive systems and performance to bring to the next class.
+        - Please place this in your "Digital Notebook" and share with the class that way.
+    - Read: [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130.](http://muse.jhu.edu/article/35249/pdf)
 
 **Wednesday**
 
+- Class discussion of "Interactive Technology and Theater"
+    - Please read;
+        - [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130. Available from: http://muse.jhu.edu/article/35249/](http://muse.jhu.edu/article/35249/pdf)
+- Class discussion of "Inspiring examples of interactive systems and performance".
 - [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
+- **DUE:**
+    - demo of "digital notebook" for class
+    - example of interactive systems and performance to share in class
 - **TODO:**
 
 
@@ -262,8 +283,6 @@ Spring break will be March 24th - April 1st.
 
 **Monday**
 
-- Show & Tell
-    -
 - **TODO:**
 - **Due:**
     - Final Project pieces should be complete.
