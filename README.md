@@ -8,6 +8,21 @@
 	- [Course Websites](#course-websites)
 - [Weekly Breakdown](#weekly-breakdown)
 	- [Week 1](#week-1)
+	- [Week 2](#week-2)
+	- [Week 3](#week-3)
+	- [Week 4 (Project 1 Due)](#week-4-project-1-due)
+	- [Week 5](#week-5)
+	- [Week 6](#week-6)
+	- [Week 7](#week-7)
+	- [Week 8 (Project 2 Due)](#week-8-project-2-due)
+	- [Week 9](#week-9)
+	- [Spring Break](#spring-break)
+	- [Week 10](#week-10)
+	- [Week 11](#week-11)
+	- [Week 12](#week-12)
+	- [Week 13 (Performance Week for Final Project)](#week-13-performance-week-for-final-project)
+	- [Week 14](#week-14)
+	- [Finals Week & Expo](#finals-week-expo)
 
 <!-- /TOC -->
 
@@ -43,13 +58,246 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Required Texts and Supplies
 - Discussion of Technologies and Tools
 - Assign ["Show & Tell"](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/ShowAndTell/)
-- [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
 - Class discussion;
     1. What does interactive mean?
-    2. What is Installation Art?
+    2. What is an interactive performance?
+- **TODO:**
+    - Get the final project performance date your calendar!
 
 **Wednesday**
 
+- [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
+- **TODO:**
 
 
-**TODO:**
+
+
+## Week 2
+
+**Monday**
+
+- Show & Tell
+    - Robert Rowe & Arne Eigenfeldt
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 3
+
+**Monday**
+
+- Show & Tell
+    - Philippe Pasquier & Ollie Bown
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 4 (Project 1 Due)
+
+**Monday**
+
+- Show & Tell
+    - Pauline Oliveros & Sam Pluta
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **Due:**
+    - Project 1
+    - Performances in class.
+- **TODO:**
+
+
+
+## Week 5
+
+**Monday | NO CLASS**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+    - Project 1 Documentation
+
+
+
+## Week 6
+**Monday**
+
+- Show & Tell
+    - Moldover & Imogen Heap (specifically Music Gloves)
+    - Al Biles & Francois Pachet
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 7
+
+**Monday**
+
+- Show & Tell
+    - Sound Music Movement Interaction in IRCAM
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 8 (Project 2 Due)
+
+**Monday**
+
+- Show & Tell
+    - MIT Media Lab; Opera of the Future
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **Due:**
+    - Project 2 Performances in Class
+- **TODO:**
+
+
+
+## Week 9
+
+**Monday**
+
+- Show & Tell
+    - Es Devlin & Electric Bear
+- **Due:**
+    - Project 2 Documentation
+- **TODO:**
+
+**Wednesday**
+
+- Show & Tell
+    - Johannes Birringer & AlienNation Co.
+    - Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
+- **TODO:**
+- **Due:**
+
+
+
+## Spring Break
+
+Spring break will be March 24th - April 1st.
+
+
+## Week 10
+
+**Monday**
+
+- Show & Tell
+    - International Magic
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 11
+
+**Monday**
+
+- Show & Tell
+    - OpenEndedGroup
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- **TODO:**
+- **Due:**
+
+
+
+## Week 12
+
+**Monday**
+
+- Show & Tell
+    - Beaudry Interactive
+- **TODO:**
+- **Due:**
+
+**Wednesday**
+
+- Show & Tell
+    - Palindrome Dance Company & Troika Ranch
+- **TODO:**
+- **Due:**
+
+
+
+## Week 13 (Performance Week for Final Project)
+
+**Monday**
+
+- Show & Tell
+    -
+- **TODO:**
+- **Due:**
+    - Final Project pieces should be complete.
+
+**Wednesday: 7pm Performance (MANDATORY)**
+
+Final project pieces performed in the evening. No Class during the day.
+
+NOTE: You _MUST_ be present Wednesday evening for the class performance. This is mandatory. Dress rehearsals and soundchecks will occur from 1pm-6pm.
+
+
+
+## Week 14
+
+**Monday**
+
+- Show & Tell
+    -
+- **TODO:**
+    - Finish up Final Project documentation.
+- **Due:**
+
+**Wednesday**
+
+- **Due:**
+    - Final Project Documentation
+
+
+## Finals Week & Expo
+
+**Finals Meeting | Tuesday, May 8 from 3:20-5:20**
+
+We will meet during the final time to discuss the previous week.
+
+**Media Arts Expo | May 9th & 10th**
+
+I would highly encourage you all to submit your project from this course, as well as other Media Arts courses, to the Spring Expo. More details to come.
