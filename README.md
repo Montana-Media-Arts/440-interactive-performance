@@ -89,7 +89,13 @@ What is interactivity? What does it mean to create meaningful interactive experi
     - demo of "digital notebook" for class
     - example of interactive systems and performance to share in class
 - **TODO:**
-
+    - Please read:
+        - Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.
+            - [Main Entry on "Organised Sound"](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
+            - [PDF Download](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF81A560B5C9D96355BC400065C7A1DF/S1355771809000235a.pdf/understanding_interactive_systems.pdf)
+            - NOTE: You will need to be on UMT's "eduroam" network
+        - Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.
+            - The PDF is available from the slack group in the "general channel"
 
 
 
@@ -99,6 +105,16 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 - Show & Tell
     - Robert Rowe & Arne Eigenfeldt
+- Class discussion of "Interactive Systems" and "Liveness"
+    - Please read:
+        - Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.
+            - [Main Entry on "Organised Sound"](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
+            - [PDF Download](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF81A560B5C9D96355BC400065C7A1DF/S1355771809000235a.pdf/understanding_interactive_systems.pdf)
+            - NOTE: You will need to be on UMT's "eduroam" network
+        - Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.
+            - The PDF is available from the slack group in the "general channel"
+    - Watch:
+        - SNL "Bass Drop"
 - **TODO:**
 - **Due:**
 
@@ -120,8 +136,12 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
-- **TODO:**
 - **Due:**
+- **TODO:**
+    - Please read:
+        - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
+            - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
+            - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 
 
 
@@ -131,6 +151,11 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 - Show & Tell
     - Pauline Oliveros & Sam Pluta
+- Class Discussion: Tripping on Wires
+    - Please read:
+        - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
+            - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
+            - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 - **TODO:**
 - **Due:**
 
