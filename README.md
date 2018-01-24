@@ -80,6 +80,9 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
+- Resources
+	- Reference manager
+	- mendeley https://www.mendeley.com
 - Class discussion of "Interactive Technology and Theater"
     - Please read;
         - [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130. Available from: http://muse.jhu.edu/article/35249/](http://muse.jhu.edu/article/35249/pdf)
