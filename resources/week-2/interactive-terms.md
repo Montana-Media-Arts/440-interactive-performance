@@ -9,15 +9,23 @@
     - Interactivity
     - Interaction
 
+A system, with at least 2 agents, who have an equal opportunity of affecting state changes in every other agent.
 
 # Reactive
+
+A one-way sharing of information, with the goal of changing something else.
 
 # Dynamical
 
 
+
 # System
 
+Some sort of organized group of things, that do something.
+
 # Liveness
+
+The perception of whether something is actually occurring in real-time? (i.e., the e-mail problem)
 
 -------------------------------------------------------------------
 # **Types of Systems**
@@ -27,9 +35,20 @@ What are the four types of systems as described in the Frengel?
 # Interactive System Models
 
 1. The instrumental model
+    - reactive system
+    - something that a performer understands its possible outputs
 2. The conductor model
+    - moderator of output information
+    - typically includes fixed-media
+    - controls timing, etc
+    - not at the micro-level of the instrument
 3. The reflexive model
-4. The virtual musician model
+    - starting to introduce true agency
+    - responds to something at the input
+    - may make its own choices
+    - However, still expected results
+4. The virtual performer model
+    - working towards full agency
 
 # Emprical Classifications (drummond)
 
