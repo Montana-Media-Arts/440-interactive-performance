@@ -48,6 +48,31 @@ Since this is a performance based piece, _time_ must be considered. How does tim
 What is interactive in your work? How does it fit into one of the models explored in class from either the Drummond or Saltz articles?
 
 
+## Interactive System Model
+
+What model of interactive art system are you going to employ?
+
+### Interactive System Models (Frengel)
+
+1. The instrumental model
+2. The conductor model
+3. The reflexive model
+4. The virtual performer model
+
+### Emprical Classifications (drummond)
+
+1. performer with system;
+2. audience with system; and
+3. performer with system with audience.
+
+### Classification dimensions (drummond)
+
+1. score-driven vs. performance-driven systems;
+2. transformative, generative or sequenced response methods; and
+3. Instrument vs. player paradigms.
+
+
+
 ## Technology
 
 What technology are you going to utilize to achieve your desired work? How does it assist with the issues and topics mentioned above? How does it complicate them?
@@ -56,7 +81,7 @@ For example, if you are using pre-rendered media, how does that effect issues of
 
 If you are using physical computing components or controllers, how do these effect the development cycle?
 
-Are you giving any sense of agency to your piece or the technology in it? Why or why not? 
+Are you giving any sense of agency to your piece or the technology in it? Why or why not?
 
 
 # Specs
