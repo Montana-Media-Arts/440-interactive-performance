@@ -118,6 +118,9 @@ What is interactivity? What does it mean to create meaningful interactive experi
             - The PDF is available from the slack group in the "general channel"
     - Watch:
         - SNL "Bass Drop"
+- Additional discussion of [project 1](./Projects/Project_1/)
+- Terminology Discussion
+    - [Please see; "Interactive Terminology" in the resources folder](./resources/week-2/interactive-terms.md)
 - **TODO:**
 - **Due:**
 

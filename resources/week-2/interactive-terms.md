@@ -1,0 +1,147 @@
+# Discussion and Terms of Interactive Art Systems
+
+-------------------------------------------------------------------
+# **Basic Definitions**
+
+# Interactive
+
+- Related
+    - Interactivity
+    - Interaction
+
+
+# Reactive
+
+# Dynamical
+
+
+# System
+
+# Liveness
+
+-------------------------------------------------------------------
+# **Types of Systems**
+
+What are the four types of systems as described in the Frengel?
+
+# Interactive System Models
+
+1. The instrumental model
+2. The conductor model
+3. The reflexive model
+4. The virtual musician model
+
+# Emprical Classifications (drummond)
+
+1. performer with system;
+2. audience with system; and
+3. performer with system with audience.
+
+# Classification dimensions (drummond)
+
+1. score-driven vs. performance-driven systems;
+2. transformative, generative or sequenced response methods; and
+3. Instrument vs. player paradigms.
+
+
+
+-------------------------------------------------------------------
+# **System Design Terms**
+
+# Affordance
+
+# Constraints
+
+# Agency
+
+# Agent
+
+
+# Mapping
+
+What are the four types of mappings?
+
+
+# Control
+
+# Feedback
+
+
+-------------------------------------------------------------------
+# **System Parts**
+
+Three basic parts of a system?
+
+
+-------------------------------------------------------------------
+# **Audience/Spectator**
+
+# perception of agency
+
+# perception of interaction
+
+• How does the spectator know that the performer is communicating with the system?
+• How does the spectator know that the system is responding to the performer?
+• How does the spectator think the user controls the system?
+• How does the spectator know that the system is doing the right thing?
+• How does the spectator know when the performer or the system has made a mistake?
+
+
+
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+# Other Terminology
+
+
+-------------------------------------------------------------------
+# **Fields of Study**
+
+# HCI
+
+# UXD
+
+# IxD
+
+
+-------------------------------------------------------------------
+# **Terms of HCI and IxD**
+
+# Interface
+
+## UI
+
+## Accessibility
+
+## Usability
+
+## Audience
+
+## Heuristic Evaluation
+
+
+
+-------------------------------------------------------------------
+# **Design Process**
+
+# Iterative Design
+
+## The Four Stages of iterative design:
+
+- design /
+- test /
+- analyze /
+- repeat ->
+
+
+-------------------------------------------------------------------
+# **System Descriptive Terms**
+
+# Closed System
+
+# Open System
+
+# Closed System
+
+# Cyber-Physical System
