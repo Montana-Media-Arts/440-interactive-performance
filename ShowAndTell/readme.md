@@ -41,7 +41,7 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 - MIT Media Lab; Opera of the Future / Sierra
 - Es Devlin & Electric Bear / Cory
 - Johannes Birringer & AlienNation Co. / Mackenzie
-- Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser / Nic
+- Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser / Nic + Delany
 - International Magic / Ryan
 - OpenEndedGroup / Stone
 - Beaudry Interactive / Toby
