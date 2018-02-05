@@ -32,17 +32,45 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 ## Show & Tell Choices:
 
 
-- Robert Rowe & Arne Eigenfeldt / Ike
-- Philippe Pasquier & Ollie Bown / Garrett + Christopher
-- Pauline Oliveros & Sam Pluta / Abby
-- Moldover & Imogen Heap (specifically Music Gloves) / Anna
-- Al Biles & Francois Pachet / Madison
-- Sound Music Movement Interaction in IRCAM / Emily
-- MIT Media Lab; Opera of the Future / Sierra
-- Es Devlin & Electric Bear / Cory
-- Johannes Birringer & AlienNation Co. / Mackenzie
-- Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser / Nic + Delany
-- International Magic / Ryan
-- OpenEndedGroup / Stone
-- Beaudry Interactive / Toby
-- Palindrome Dance Company & Troika Ranch / Jordan
+- Robert Rowe & Arne Eigenfeldt
+    - Ike
+    - 1/29
+- Philippe Pasquier & Ollie Bown
+    - Garrett + Christopher
+    - 2/5
+- Pauline Oliveros & Sam Pluta
+    - Abby
+    - 2/12
+- Moldover & Imogen Heap (specifically Music Gloves)
+    - Anna
+    - 2/26
+- Al Biles & Francois Pachet
+    - Madison
+    - 2/26
+- Sound Music Movement Interaction in IRCAM
+    - Emily
+    - 3/5
+- MIT Media Lab; Opera of the Future
+    - Sierra
+    - 3/12
+- Es Devlin & Electric Bear
+    - Cory
+    - 3/19
+- Johannes Birringer & AlienNation Co.
+    - Mackenzie
+    - 3/21
+- Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
+    - Nic + Delany
+    - 3/21
+- International Magic
+    - Ryan
+    - 4/2
+- OpenEndedGroup
+    - Stone
+    - 4/9
+- Beaudry Interactive
+    - Toby
+    - 4/16
+- Palindrome Dance Company & Troika Ranch
+    - Jordan
+    - 4/18
