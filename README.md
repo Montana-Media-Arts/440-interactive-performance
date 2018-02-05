@@ -126,8 +126,16 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
+- Remaining digital journal show-and-tells.
+- Crash course intro to [Cycling 74's Max](https://cycling74.com/products/max)
+- Further discussion of [Project 1](./Projects/Project_1/)
+
 - **TODO:**
-- **Due:**
+    - Work on Project 1
+        - Sketch ideas
+        - Began identifying technologies
+        - consider principles you will explore
+
 
 
 
@@ -137,8 +145,15 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 - Show & Tell
     - Philippe Pasquier & Ollie Bown
-- **TODO:**
+- Roundtable discussion of Project 1 Sketches and Ideas
+    - Present your idea, along with how you will make this work.
+- Individual meetings w/ Prof. Musick and work time.
+
 - **Due:**
+    - Project 1 Sketches and Ideas
+- **TODO:**
+    - Keep working on project 1!
+    
 
 **Wednesday**
 
