@@ -154,6 +154,8 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
+- Time to work on Project 1!
+- Individual Meetings to discuss work on Project 1.
 - **Due:**
 - **TODO:**
     - Please read:
