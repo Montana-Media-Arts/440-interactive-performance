@@ -45,8 +45,7 @@ One of the required outputs for each project will be a Reflection and Technical 
 
 This paper should be written utilizing the provided course paper template, available from this directory.
 
-<!--- [Direct download for "Musick_Paper_Template.doc"](./Musick_Paper_Template.doc) -->
-- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/440-interactive-performance/raw/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
+- [Direct download for "Musick_Paper_Template.doc"](./Musick_Paper_Template.doc)
 
 <br>
 
@@ -114,7 +113,7 @@ You should include images, sketches, etc., from your collected documentation in 
 
 ## Video Documentation
 
-For a performance based project I expect videos of a performance. These should include opening and closing credits with appropriate attribution and information (i.e., Name, Artist, Performer (if different), year of completion, etc.)
+For a performance based project I expect videos of a performance. These should include opening and closing credits with appropriate attribution and information (i.e., Name, Artist, Performer (if different), year of completion, etc.).
 
 You should take care to capture audio through high-fidelity means. This may require a multi-channel recording of the project with multiple microphones, as well as D/I feeds. Where appropriate, this may need to be synced with video documentation. Video documentation may also be best captured using multiple cameras.
 

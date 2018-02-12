@@ -177,11 +177,15 @@ What is interactivity? What does it mean to create meaningful interactive experi
             - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
             - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 - Logistics for Presentation of Project 1
-    -
+    - Order
+    - Needs
+    - Time
+    - I/O
+- Documentation and Write-Up of Presentation 1
 - **TODO:**
     - Finish up Project 1
 
-    
+
 
 **Wednesday**
 
