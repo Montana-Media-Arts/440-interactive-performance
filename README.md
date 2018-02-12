@@ -176,8 +176,12 @@ What is interactivity? What does it mean to create meaningful interactive experi
         - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
             - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
             - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
+- Logistics for Presentation of Project 1
+    -
 - **TODO:**
-- **Due:**
+    - Finish up Project 1
+
+    
 
 **Wednesday**
 
