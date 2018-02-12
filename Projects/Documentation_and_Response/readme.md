@@ -45,7 +45,8 @@ One of the required outputs for each project will be a Reflection and Technical 
 
 This paper should be written utilizing the provided course paper template, available from this directory.
 
-- [Direct download for "Musick_Paper_Template.doc"](./Musick_Paper_Template.doc)
+<!--- [Direct download for "Musick_Paper_Template.doc"](./Musick_Paper_Template.doc) -->
+- [Direct download for "Musick_Paper_Template.doc"](https://github.com/Montana-Media-Arts/440-interactive-performance/raw/master/Projects/Documentation_and_Response/Musick_Paper_Template.doc)
 
 <br>
 
