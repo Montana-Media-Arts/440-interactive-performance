@@ -202,7 +202,19 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
+- Discussion & Wrap-up of _Project 1_
+    - What was successful?
+    - What was a failure?
+    - How was performing?
+        - Issues with performing?
+    - Technology as _disruptor_
+    - Approach going forward?
+- Launch [_Project 2 | Tracking & Following_](./Projects/Project_2/)
+    - Go over description
+    - Discuss timeline
+    - brainstorm ideas
 - **TODO:**
+    - Start project 2
 - **Due:**
     - Project 1 Documentation
 
