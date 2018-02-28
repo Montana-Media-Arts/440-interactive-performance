@@ -223,14 +223,16 @@ What is interactivity? What does it mean to create meaningful interactive experi
 ## Week 6
 **Monday**
 
-- Show & Tell
-    - Moldover & Imogen Heap (specifically Music Gloves)
-    - Al Biles & Francois Pachet
+- Prof. was sick. no class.
 - **TODO:**
 - **Due:**
 
 **Wednesday**
 
+- Show & Tell (moved from Monday)
+    - Moldover & Imogen Heap (specifically Music Gloves)
+    - Al Biles & Francois Pachet
+- Sketch Presentations, may overflow into Monday.
 - **TODO:**
 - **Due:**
 
