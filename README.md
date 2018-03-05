@@ -248,7 +248,7 @@ Prof. Musick was absent. Class cancelled.
     - Sound Music Movement Interaction in IRCAM
 - Project 2 Round Table and Proposals \[finish from last week\]
 - Slight change in Project 2.
-    - _In order to facilitate some of the various skill levels of this class, Project 2 no longer has to have **true** interactivity. Instead, the performance simply needs to **appear** to contain interactive elements._
+    - _In order to facilitate some of the various skill levels of this class, Project 2 no longer has to have **true** interactivity. Instead, the performance simply needs to **appear** to contain interactive elements._()
 - Ideas and Discussions
     - [Works | INITI](http://www.initi.org)
     - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
