@@ -223,16 +223,20 @@ What is interactivity? What does it mean to create meaningful interactive experi
 ## Week 6
 **Monday**
 
-- Show & Tell
-    - Moldover & Imogen Heap (specifically Music Gloves)
-    - Al Biles & Francois Pachet
+Prof. Musick was absent. Class cancelled.
+
 - **TODO:**
 - **Due:**
 
 **Wednesday**
+- Show & Tell
+    - Moldover & Imogen Heap (specifically Music Gloves)
+    - Al Biles & Francois Pachet
+- Project 2 Round Table and Proposals
 
 - **TODO:**
 - **Due:**
+    - Project 2 Round Table and Proposals
 
 
 
@@ -242,6 +246,18 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 - Show & Tell
     - Sound Music Movement Interaction in IRCAM
+- Project 2 Round Table and Proposals \[finish from last week\]
+- Slight change in Project 2.
+    - _In order to facilitate some of the various skill levels of this class, Project 2 no longer has to have **true** interactivity. Instead, the performance simply needs to **appear** to contain interactive elements._
+- Ideas and Discussions
+    - [Works | INITI](http://www.initi.org)
+    - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
+    - [WHITEvoid Studio - YouTube](https://www.youtube.com/channel/UC6X99PNIbP15HR5Pvqj28vA)
+    - [Box - YouTube](https://www.youtube.com/watch?v=lX6JcybgDFo)
+    - [Winner of iMapp Bucharest 2017 - Gong Zhen - “ Another World “ - YouTube](https://www.youtube.com/watch?v=C6-UCkS7lKw)
+    - [PROJECTION MAPPING MAGIC AT ISE 2017 - YouTube](https://www.youtube.com/watch?v=QzppfCSJodY)
+    - [Real Time Tracking & Projection Mapping (Full ver.) - YouTube](https://www.youtube.com/watch?v=XkXrLZmnQ_M)
+    - http://projection-mapping.org
 - **TODO:**
 - **Due:**
 
