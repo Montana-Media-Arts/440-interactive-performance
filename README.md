@@ -258,11 +258,20 @@ Prof. Musick was absent. Class cancelled.
     - [PROJECTION MAPPING MAGIC AT ISE 2017 - YouTube](https://www.youtube.com/watch?v=QzppfCSJodY)
     - [Real Time Tracking & Projection Mapping (Full ver.) - YouTube](https://www.youtube.com/watch?v=XkXrLZmnQ_M)
     - http://projection-mapping.org
+- Resources
+    - [Processing and Keystone - Doing Projection Mapping](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/#processing-setup)
+    - [touchDesigner](http://www.derivative.ca)
 - **TODO:**
 - **Due:**
 
 **Wednesday**
 
+- Break-Out Group Problem Solving
+    - In the small groups created on Monday, you are to;
+        - Present the current state of your project.
+        - Discuss one technical problem you have encountered.
+        - Discuss one artistic problem you have encountered.
+        - Help you group-mates solve their problems. 
 - **TODO:**
 - **Due:**
 
