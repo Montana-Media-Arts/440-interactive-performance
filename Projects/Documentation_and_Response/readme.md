@@ -113,18 +113,24 @@ You should include images, sketches, etc., from your collected documentation in 
 
 ## Video Documentation
 
-For a performance based project I expect videos of a performance. These should include opening and closing credits with appropriate attribution and information (i.e., Name, Artist, Performer (if different), year of completion, etc.).
+For performance based projects I expect two videos. 
+
+#### 1. Performance Documentation
+
+The first should be a straight documentation of a performance of the work. This should include opening and closing credits with appropriate attribution and information (i.e., Name, Artist, Performer (if different), year of completion, etc.).
 
 You should take care to capture audio through high-fidelity means. This may require a multi-channel recording of the project with multiple microphones, as well as D/I feeds. Where appropriate, this may need to be synced with video documentation. Video documentation may also be best captured using multiple cameras.
 
 These multiple captures of the piece, during presentation and throughout the development process, should be edited in post, with software such as Final Cut X or Adobe Premiere.
 
+#### 2. Demo Explanation
+
+You are also required to create a demo video that explains the work through text or Voice Over. This can be short, anywhere between 30-90 seconds. However, it should offer a viewer the opportuniuty to understand that work without having experienced it live or reading your paper. 
+
 
 
 # SUBMISSION
 
-To submit your write up; Please e-mail me ([michael.musick@umontana.edu](mailto:michaelmusick@umontana.edu)) your documentation.
+To submit your write up; Please submit links to videos and a PDF copy of your paper to the Moodle submission forum for the appropriate project. 
 
-You should CC, your partner/s on this e-mail. So that I can see who all was involved.
 
-In your email, you should attach a PDF version of your write-up, along with a link to video hosting site (i.e. YouTube or Vimeo) or dedicated webpage with embedded video.
