@@ -48,12 +48,27 @@ What other equipment will we need?
 # Other Jobs for Students
 
 - Lighting
+    - ryan
+    - Sierra
+    - stone
 - Projector and Screen
+    - Emily
 - Sound
+    - nic
+    - corey
 - Advertising and Awareness
+    - Abby
+    - Sierra
+    - Delaney
 - room setup (chairs and sweeping)
+    - Anna
+    - Mackenzie
 - documentation
-    - I would like at least 3 cameras
-    - Also need multi-track recording with room mics and DI's
-    - 1 still shot camera
--
+        - I would like at least 3 cameras
+        - Also need multi-track recording with room mics and DI's
+        - 1 still shot camera
+    - madison
+    - Garrett
+    - toby
+    - chris
+    - corey
