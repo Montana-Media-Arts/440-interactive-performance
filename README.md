@@ -271,7 +271,7 @@ Prof. Musick was absent. Class cancelled.
         - Present the current state of your project.
         - Discuss one technical problem you have encountered.
         - Discuss one artistic problem you have encountered.
-        - Help you group-mates solve their problems. 
+        - Help you group-mates solve their problems.
 - **TODO:**
 - **Due:**
 
@@ -325,8 +325,27 @@ Spring break will be March 24th - April 1st.
 
 - Show & Tell
     - International Magic
-- **TODO:**
-- **Due:**
+- Updates on Grades:
+    - Will be caught up by Wednesday
+- Project 3
+    - Check ins
+    - Office Hours for Help
+        - Mondays (today) 3:30-5
+        - Thursdays, noon-1:30
+    - Additional help sessions
+        - By email or conversation for
+            - Tuesday afternoon
+            - Thursday afternoon
+            - Friday morning
+    - Dates:
+        - First Drafts due in two weeks. _Monday, April 16th_
+            - Half of the group will perform for me on Monday.
+            - The other half will be Wednesday.
+            - More information on this will be distributed Wednesday, April 11th.
+- Reminder of Research Blogs
+    - You are to be keeping a research blog of interesting art, science, tech, presentations, events, etc. that you find. How these inspired you, and how this feeds back in to your own work.
+    - These are blogs you presented at the start of the semester.
+    - We will have individual check-ins in the last week of class to discuss these and look at them together.
 
 **Wednesday**
 
