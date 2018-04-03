@@ -53,14 +53,17 @@ What other equipment will we need?
     - stone
 - Projector and Screen
     - Emily
+    - Delaney
 - Sound
     - nic
     - corey
-- Advertising and Awareness
+- Advertising, Awareness, & Program
     - Abby
     - Sierra
     - Delaney
 - room setup (chairs and sweeping)
+        - tables
+        - chairs
     - Anna
     - Mackenzie
 - documentation
