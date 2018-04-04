@@ -308,7 +308,6 @@ Prof. Musick was absent. Class cancelled.
 
 - Show & Tell
     - Johannes Birringer & AlienNation Co.
-    - Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
 - **TODO:**
 - **Due:**
 
@@ -324,7 +323,7 @@ Spring break will be March 24th - April 1st.
 **Monday**
 
 - Show & Tell
-    - International Magic
+    - Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
 - Updates on Grades:
     - Will be caught up by Wednesday
 - Project 3
@@ -349,6 +348,11 @@ Spring break will be March 24th - April 1st.
 
 **Wednesday**
 
+- Show & Tell
+    - International Magic
+- updates on grades
+- 60 second checkins
+- Meet with lighting group while others get in class time to work.
 - **TODO:**
 - **Due:**
 
@@ -360,11 +364,40 @@ Spring break will be March 24th - April 1st.
 
 - Show & Tell
     - OpenEndedGroup
+- Discuss Documentation
+    - Please Read; [_Musick, Michael. "A Physically Distinct, Multi-Agent, Sonic Space Ecosystem". ICMC 2018 Blind-Submission._](./resources/readings/musick-icmc2018-submission.pdf)
+    - Please watch; [_Musick, Michael. "PRECUNEUS; Sonic Space No. 8 – Iteration No. 4" Performance Video._](http://michaelmusick.com/precuneus_ss8_no4/) (video near bottom of page)
+    - Please watch; _Citygram. "S[e]oul Sound[e]scapes" Documentation Video._
+    - Written Document
+        - Working with word
+            - styles
+        - inlaying images
+            - adding captions and figures
+        - working with references
+            - IEEE format
+            - mendeley
+        - printing to pdf
+        - structure
+        - style
+        - grammar
+        - voice and tense
+    - Performance Video Documentation
+        - Titles & Credits
+        - Sound
+            - Cleaning Sound
+            - Mixing Sound
+        - Angles and Cameras
+    - Demo Videos
+        - Captions
+        - V/O's
+        - Screen captures
+- Meet with Projector and Screen Group
 - **TODO:**
 - **Due:**
 
 **Wednesday**
 
+- Assign first draft presentation days
 - **TODO:**
 - **Due:**
 
@@ -376,6 +409,7 @@ Spring break will be March 24th - April 1st.
 
 - Show & Tell
     - Beaudry Interactive
+- First Draft Presentations by 1/2 of class
 - **TODO:**
 - **Due:**
 
@@ -383,6 +417,7 @@ Spring break will be March 24th - April 1st.
 
 - Show & Tell
     - Palindrome Dance Company & Troika Ranch
+    - First Draft Presentations by 1/2 of class
 - **TODO:**
 - **Due:**
 
