@@ -397,6 +397,7 @@ Spring break will be March 24th - April 1st.
 
 **Wednesday**
 
+- Look at project specific repo ([440final_sp18](https://github.com/Montana-Media-Arts/440final_sp18))
 - Assign first draft presentation days
 - Confirm Lighting Needs
 - Confirm Screen/Projector Needs
