@@ -398,8 +398,15 @@ Spring break will be March 24th - April 1st.
 **Wednesday**
 
 - Assign first draft presentation days
-- **TODO:**
-- **Due:**
+- Confirm Lighting Needs
+- Confirm Screen/Projector Needs
+- Audio Needs Discussion and Confirmation
+- Discussion about documentation
+- Anyone else who wants to partake Apr. 25th?
+- Meet with Sound Team
+- Meet with Advertising
+- Meet with Documentation
+
 
 
 
@@ -407,17 +414,14 @@ Spring break will be March 24th - April 1st.
 
 **Monday**
 
-- Show & Tell
-    - Beaudry Interactive
 - First Draft Presentations by 1/2 of class
 - **TODO:**
 - **Due:**
 
 **Wednesday**
 
-- Show & Tell
-    - Palindrome Dance Company & Troika Ranch
-    - First Draft Presentations by 1/2 of class
+
+- First Draft Presentations by 1/2 of class
 - **TODO:**
 - **Due:**
 
@@ -444,13 +448,15 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 **Monday**
 
 - Show & Tell
-    -
+    - Beaudry Interactive
 - **TODO:**
     - Finish up Final Project documentation.
 - **Due:**
 
 **Wednesday**
 
+- Show & Tell
+    - Palindrome Dance Company & Troika Ranch
 - **Due:**
     - Final Project Documentation
 

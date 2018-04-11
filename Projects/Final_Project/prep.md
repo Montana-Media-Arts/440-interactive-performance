@@ -56,7 +56,7 @@ What other equipment will we need?
     - Delaney
 - Sound
     - nic
-    - corey
+    - cory
 - Advertising, Awareness, & Program
     - Abby
     - Sierra
