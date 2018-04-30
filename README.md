@@ -438,7 +438,7 @@ Spring break will be March 24th - April 1st.
 
 **Wednesday: 7pm Performance (MANDATORY)**
 
-Final project pieces performed in the evening. No Class during the day.
+Final project pieces performed in the evening. 
 
 NOTE: You _MUST_ be present Wednesday evening for the class performance. This is mandatory. Dress rehearsals and soundchecks will occur from 1pm-6pm.
 
@@ -448,23 +448,43 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 
 **Monday**
 
-- Show & Tell
-    - Beaudry Interactive
+1. Final Show & Tell
+	- Beaudry Interactive
+2. Last weeks performance
+	1. I received lost of positive feedback
+	2. What are your thoughts or comments on last weeks performance?
+3. Media files link
+4. Final deliverables
+	1. Paper
+	2. Demo Video
+	3. Performance Video
+5. Expo submissions and performances
+	1. WHo is intending to submit 440 projects?
+	2. What else are you submitting in Creative Coding Land?
+		1. I need to know so that I can help with scheduling and setup
+	3. Make sure you submit something
+6. Journals / notebooks
+	1. Check-ins
+		1. Today
+		2. or later this week
+7. Registration & Advising
+8. Montana Sonic Arts & Interactive Arts Lab
+
 - **TODO:**
     - Finish up Final Project documentation.
 - **Due:**
 
 **Wednesday**
 
-- Show & Tell
-    - Palindrome Dance Company & Troika Ranch
+NO CLASS, work on final.
+
 - **Due:**
     - Final Project Documentation
 
 
 ## Finals Week & Expo
 
-**Finals Meeting | Tuesday, May 8 from 3:20-5:20**
+**Finals Meeting | Monday, May 7 from 3:20-5:20**
 
 We will meet during the final time to discuss the previous week.
 
