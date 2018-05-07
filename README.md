@@ -468,6 +468,13 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 
 We will meet during the final time to discuss the previous week.
 
-**Media Arts Expo | May 9th & 10th**
+1. Expo time/date adjustments
+2. Spot check each video,
+	1. discussion of production quality
+	2. discussion of effect
+2. Missing 7 journals/notebooks. Please share with me after class. (This is 10% of your grade and has the potential of dropping you a full letter grade.)
+3. Final Thoughts
+
+**Media Arts Expo | 10th**
 
 I would highly encourage you all to submit your project from this course, as well as other Media Arts courses, to the Spring Expo. More details to come.
