@@ -33,44 +33,47 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 
 
 - Robert Rowe & Arne Eigenfeldt
-    - Ike
-    - 1/29
+    -
+    - 1/23
 - Philippe Pasquier & Ollie Bown
-    - Garrett + Christopher
-    - 2/5
+    -
+    - 1/28
 - Pauline Oliveros & Sam Pluta
-    - Abby
-    - 2/12
+    -
+    - 2/4
 - Moldover & Imogen Heap (specifically Music Gloves)
-    - Anna
-    - 2/26
+    -
+    - 2/11
 - Al Biles & Francois Pachet
-    - Madison
-    - 2/26
+    -
+    - 2/20
 - Sound Music Movement Interaction in IRCAM
-    - Emily
-    - 3/5
+    -
+    - 2/25
 - MIT Media Lab; Opera of the Future
-    - Sierra
-    - 3/12
+    -
+    - 3/5
 - Es Devlin & Electric Bear
-    - Cory
-    - 3/19
+    -
+    - 3/11
 - Johannes Birringer & AlienNation Co.
-    - Mackenzie
-    - 3/21
+    -
+    - 3/13
 - Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
-    - Nic + Delany
-    - 3/21
+    -
+    - 3/18
 - International Magic
-    - Ryan
-    - 4/2
+    -
+    - 3/20
 - OpenEndedGroup
-    - Stone
-    - 4/9
+    -
+    - 4/1
+
+<!-- 
 - Beaudry Interactive
-    - Toby
+    -
     - 4/16
 - Palindrome Dance Company & Troika Ranch
-    - Jordan
+    -
     - 4/18
+ -->

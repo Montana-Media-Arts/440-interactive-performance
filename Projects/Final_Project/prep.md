@@ -1,8 +1,8 @@
 # Final Project Prep Sheet
 
 - Office Hours for Help
-    - Mondays (today) 3:30-5
-    - Thursdays, noon-1:30
+    - Wednesdays:
+    - Thursdays:
 
 - Additional help sessions
     - By email or conversation for
@@ -11,10 +11,10 @@
         - Friday morning
 
 - Dates:
-    - First Drafts due in two weeks. _Monday, April 16th_
+    - First Drafts due in two weeks. _Monday, April --th_
         - Half of the group will perform for me on Monday.
         - The other half will be Wednesday.
-        - More information on this will be distributed Wednesday, April 11th.
+        - More information on this will be distributed Wednesday, April --th.
 
 
 # Equipment

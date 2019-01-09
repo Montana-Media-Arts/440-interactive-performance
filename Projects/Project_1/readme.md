@@ -1,9 +1,9 @@
 # Project 1 | Liveness in interactive art + performance
 
 
-Sketch due: Wednesday, January 31st
-**Project due:** Wednesday, February 14th
-**Documentation due:** Wednesday, February 21st
+Sketch due: Monday, January 28th
+**Project due:** Wednesday, February 6th
+**Documentation due:** Wednesday, February 13th
 
 Write, develop, compose, and/or create an "interactive art + performance" piece capable of _live_ presentation. This work could be a;
 

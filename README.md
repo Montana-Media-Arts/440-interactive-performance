@@ -1,36 +1,14 @@
 # 440-interactive-performance
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [440-interactive-performance](#440-interactive-performance)
-	- [Professor/Instructor](#professorinstructor)
-	- [Description](#description)
-	- [Course Websites](#course-websites)
-- [Weekly Breakdown](#weekly-breakdown)
-	- [Week 1](#week-1)
-	- [Week 2](#week-2)
-	- [Week 3](#week-3)
-	- [Week 4 (Project 1 Due)](#week-4-project-1-due)
-	- [Week 5](#week-5)
-	- [Week 6](#week-6)
-	- [Week 7](#week-7)
-	- [Week 8 (Project 2 Due)](#week-8-project-2-due)
-	- [Week 9](#week-9)
-	- [Spring Break](#spring-break)
-	- [Week 10](#week-10)
-	- [Week 11](#week-11)
-	- [Week 12](#week-12)
-	- [Week 13 (Performance Week for Final Project)](#week-13-performance-week-for-final-project)
-	- [Week 14](#week-14)
-	- [Finals Week & Expo](#finals-week-expo)
-
-<!-- /TOC -->
 
 ## Professor/Instructor
 
 - [Professor Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
 - Office: McGill Hall, 232.
+- Office Hours:
+    - Wednesdays: 12:30pm - 1:30pm
+    - Thursdays:  10:30am - 12:00pm
 
 
 ## Meeting Time and Location
@@ -53,6 +31,29 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - [Interactive Slack Channel](https://um-interactive-media.slack.com)
     - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
 
+
+---
+
+# Class Breakdown
+
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4 (Project 1 Due)](#week-4-project-1-due)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8 (Project 2 Due)](#week-8-project-2-due)
+- [Week 9](#week-9)
+- [Spring Break](#spring-break)
+- [Week 10](#week-10)
+- [Week 11](#week-11)
+- [Week 12](#week-12)
+- [Week 13 (Performance Week for Final Project)](#week-13-performance-week-for-final-project)
+- [Week 14](#week-14)
+- [Finals Week & Expo](#finals-week-expo)
+
+
 # Weekly Breakdown
 
 ## Week 1
@@ -70,6 +71,16 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Class discussion;
     - What is a "digital notebook"
     - Why you need one
+- Critique Days (Mandatory)
+    - Project 1 - Presentation in Class; Wednesday, February 6th
+    - Project 2 - Critique in Class; Wednesday, March 6th
+- Extra Meetings (Mandatory)
+    - Final Project Presentation (Wednesday, April 17th; 7:00pm)
+        - This will be part of the Montana Interactive Systems and Sonic Arts Lab (MISSAL) Show
+    - Finals time and discussion (Monday, April 29th; 3:20pm-5:20pm)
+- Media Arts Expo @ Missoula Children's Theater!!!
+    - Wednesday, May 1st
+    - Get this in your calendar!
 - **TODO:**
     - Get the final project performance date in your calendar!
     - Setup (if necessary) a digital "notebook" to collect ideas and inspirations for this class.
@@ -106,6 +117,11 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Monday**
 
+_No Class for MLK Celebration_
+
+
+**Wednesday**
+
 - Show & Tell
     - Robert Rowe & Arne Eigenfeldt
 - Class discussion of "Interactive Systems" and "Liveness"
@@ -121,14 +137,6 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Additional discussion of [project 1](./Projects/Project_1/)
 - Terminology Discussion
     - [Please see; "Interactive Terminology" in the resources folder](./resources/week-2/interactive-terms.md)
-- **TODO:**
-- **Due:**
-
-**Wednesday**
-
-- Remaining digital journal show-and-tells.
-- Crash course intro to [Cycling 74's Max](https://cycling74.com/products/max)
-- Further discussion of [Project 1](./Projects/Project_1/)
 - **TODO:**
     - Work on Project 1
         - Sketch ideas
@@ -189,19 +197,19 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 **Wednesday**
 
+- PROJECT 1 -- Performances in class.
 - **Due:**
     - Project 1
-    - Performances in class.
 - **TODO:**
 
 
 
 ## Week 5
 
-**Monday | NO CLASS**
+**Monday**
 
-**Wednesday**
-
+- Show & Tell
+    - Moldover & Imogen Heap (specifically Music Gloves)
 - Discussion & Wrap-up of _Project 1_
     - What was successful?
     - What was a failure?
@@ -209,6 +217,14 @@ What is interactivity? What does it mean to create meaningful interactive experi
         - Issues with performing?
     - Technology as _disruptor_
     - Approach going forward?
+- Discussion of Paper
+    - What is this paper about?
+    - What are the expectations?
+    - What should you focus on?
+
+
+**Wednesday**
+
 - Launch [_Project 2 | Tracking & Following_](./Projects/Project_2/)
     - Go over description
     - Discuss timeline
@@ -221,22 +237,19 @@ What is interactivity? What does it mean to create meaningful interactive experi
 
 
 ## Week 6
-**Monday**
 
-Prof. Musick was absent. Class cancelled.
+**Monday | NO CLASS**
 
-- **TODO:**
-- **Due:**
+- PRESIDENT'S DAY
 
 **Wednesday**
 - Show & Tell
-    - Moldover & Imogen Heap (specifically Music Gloves)
     - Al Biles & Francois Pachet
-- Project 2 Round Table and Proposals
+- Project 2 Round Table of Sketches and Proposals
 
 - **TODO:**
 - **Due:**
-    - Project 2 Round Table and Proposals
+    - Project 2 Round Table of Sketches and Proposals
 
 
 
@@ -247,8 +260,6 @@ Prof. Musick was absent. Class cancelled.
 - Show & Tell
     - Sound Music Movement Interaction in IRCAM
 - Project 2 Round Table and Proposals \[finish from last week\]
-- Slight change in Project 2.
-    - _In order to facilitate some of the various skill levels of this class, Project 2 no longer has to have **true** interactivity. Instead, the performance simply needs to **appear** to contain interactive elements._()
 - Ideas and Discussions
     - [Works | INITI](http://www.initi.org)
     - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
@@ -272,6 +283,10 @@ Prof. Musick was absent. Class cancelled.
         - Discuss one technical problem you have encountered.
         - Discuss one artistic problem you have encountered.
         - Help you group-mates solve their problems.
+- Feedback on Project 1 Documentation and Write-Up
+    - Where do we go from here?
+    - What did you miss?
+    - What was  confusing?
 - **TODO:**
 - **Due:**
 
@@ -283,13 +298,20 @@ Prof. Musick was absent. Class cancelled.
 
 - Show & Tell
     - MIT Media Lab; Opera of the Future
+- Logistics for Presentation of Project 2
+    - Order
+    - Needs
+    - Time
+    - I/O
+- Documentation and Write-Up of Presentation 2
 - **TODO:**
 - **Due:**
 
 **Wednesday**
 
+- Project 2 Performances in Class
 - **Due:**
-    - Project 2 Performances in Class
+    - Project 2
 - **TODO:**
 
 
@@ -313,10 +335,6 @@ Prof. Musick was absent. Class cancelled.
 
 
 
-## Spring Break
-
-Spring break will be March 24th - April 1st.
-
 
 ## Week 10
 
@@ -337,7 +355,7 @@ Spring break will be March 24th - April 1st.
             - Thursday afternoon
             - Friday morning
     - Dates:
-        - First Drafts due in two weeks. _Monday, April 16th_
+        - First Drafts due in two weeks.
             - Half of the group will perform for me on Monday.
             - The other half will be Wednesday.
             - More information on this will be distributed Wednesday, April 11th.
@@ -355,6 +373,11 @@ Spring break will be March 24th - April 1st.
 - Meet with lighting group while others get in class time to work.
 - **TODO:**
 - **Due:**
+
+
+## Spring Break
+
+Spring break
 
 
 
@@ -432,13 +455,15 @@ Spring break will be March 24th - April 1st.
 
 **Monday**
 
+Show details need to be finalized.
+
 - **TODO:**
 - **Due:**
     - Final Project pieces should be complete.
 
 **Wednesday: 7pm Performance (MANDATORY)**
 
-Final project pieces performed in the evening. 
+Final project pieces performed in the evening.
 
 NOTE: You _MUST_ be present Wednesday evening for the class performance. This is mandatory. Dress rehearsals and soundchecks will occur from 1pm-6pm.
 
@@ -451,7 +476,7 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 1. Final Show & Tell
 	- Beaudry Interactive
 2. Last weeks performance
-	1. I received lost of positive feedback
+	1. I received a lot of positive feedback
 	2. What are your thoughts or comments on last weeks performance?
 3. Media files link
 4. Final deliverables
@@ -459,7 +484,7 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 	2. Demo Video
 	3. Performance Video
 5. Expo submissions and performances
-	1. WHo is intending to submit 440 projects?
+	1. Who is intending to submit 440 projects?
 	2. What else are you submitting in Creative Coding Land?
 		1. I need to know so that I can help with scheduling and setup
 	3. Make sure you submit something
@@ -478,13 +503,11 @@ NOTE: You _MUST_ be present Wednesday evening for the class performance. This is
 
 NO CLASS, work on final.
 
-- **Due:**
-    - Final Project Documentation
 
 
 ## Finals Week & Expo
 
-**Finals Meeting | Monday, May 7 from 3:20-5:20**
+**Finals Meeting | Monday, April 29th from 3:20-5:20**
 
 We will meet during the final time to discuss the previous week.
 
@@ -492,9 +515,12 @@ We will meet during the final time to discuss the previous week.
 2. Spot check each video,
 	1. discussion of production quality
 	2. discussion of effect
-2. Missing 7 journals/notebooks. Please share with me after class. (This is 10% of your grade and has the potential of dropping you a full letter grade.)
+2. Missing journals/notebooks. Please share with me after class. (This is 10% of your grade and has the potential of dropping you a full letter grade.)
 3. Final Thoughts
 
-**Media Arts Expo | 10th**
+- **Due:**
+    - Final Project Documentation
+
+**Media Arts Expo | May 1st!**
 
 I would highly encourage you all to submit your project from this course, as well as other Media Arts courses, to the Spring Expo. More details to come.
