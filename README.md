@@ -120,8 +120,9 @@ _TODO:_
             - [Main Entry on "Organised Sound"](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
             - [PDF Download](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF81A560B5C9D96355BC400065C7A1DF/S1355771809000235a.pdf/understanding_interactive_systems.pdf)
             - NOTE: You will need to be on UMT's "eduroam" network
+	    - Alternatively, the PDF is available from the Moodle shell under "Resources"
 	- Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.
-            - The PDF is available from the slack group in the "general channel"
+		- The PDF is available from the Moodle shell under "Resources"
 
 
 
