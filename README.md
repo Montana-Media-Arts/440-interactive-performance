@@ -83,12 +83,13 @@ What is interactivity? What does it mean to create meaningful interactive experi
     - Get this in your calendar!
 
 _TODO:_
-    - Get the final project performance date in your calendar!
-    - Setup (if necessary) a digital "notebook" to collect ideas and inspirations for this class.
-        - These will be shared next class.
-    - Find an inspiring example of interactive systems and performance to bring to the next class.
-        - Please place this in your "Digital Notebook" and share with the class that way.
-    - Read: [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130.](http://muse.jhu.edu/article/35249/pdf)
+
+- Get the final project performance date in your calendar!
+- Setup (if necessary) a digital "notebook" to collect ideas and inspirations for this class.
+    - These will be shared next class.
+- Find an inspiring example of interactive systems and performance to bring to the next class.
+    - Please place this in your "Digital Notebook" and share with the class that way.
+- Read: [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130.](http://muse.jhu.edu/article/35249/pdf)
 
 **Wednesday**
 
@@ -108,15 +109,18 @@ _TODO:_
 
 
 _DUE:_
-    - demo of "digital notebook" for class
-    - example of interactive systems and performance to share in class
+
+- demo of "digital notebook" for class
+- example of interactive systems and performance to share in class
+
 _TODO:_
-    - Please read:
-        - Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.
+
+- Please read:
+	- Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.
             - [Main Entry on "Organised Sound"](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
             - [PDF Download](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BF81A560B5C9D96355BC400065C7A1DF/S1355771809000235a.pdf/understanding_interactive_systems.pdf)
             - NOTE: You will need to be on UMT's "eduroam" network
-        - Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.
+	- Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.
             - The PDF is available from the slack group in the "general channel"
 
 
