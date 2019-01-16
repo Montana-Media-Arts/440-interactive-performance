@@ -31,7 +31,6 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 
 ## Show & Tell Choices:
 
-
 - Robert Rowe & Arne Eigenfeldt
     -
     - 1/23
