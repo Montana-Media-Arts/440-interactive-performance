@@ -81,7 +81,8 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Media Arts Expo @ Missoula Children's Theater!!!
     - Wednesday, May 1st
     - Get this in your calendar!
-- **TODO:**
+
+_TODO:_
     - Get the final project performance date in your calendar!
     - Setup (if necessary) a digital "notebook" to collect ideas and inspirations for this class.
         - These will be shared next class.
@@ -106,10 +107,10 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
 
 
-- **DUE:**
+_DUE:_
     - demo of "digital notebook" for class
     - example of interactive systems and performance to share in class
-- **TODO:**
+_TODO:_
     - Please read:
         - Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.
             - [Main Entry on "Organised Sound"](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
@@ -144,7 +145,8 @@ _No Class for MLK Celebration_
 - Additional discussion of [project 1](./Projects/Project_1/)
 - Terminology Discussion
     - [Please see; "Interactive Terminology" in the resources folder](./resources/week-2/interactive-terms.md)
-- **TODO:**
+
+_TODO:_
     - Work on Project 1
         - Sketch ideas
         - Began identifying technologies
