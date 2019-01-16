@@ -94,11 +94,18 @@ What is interactivity? What does it mean to create meaningful interactive experi
 - Resources
 	- Reference manager
 	- mendeley https://www.mendeley.com
+- Class discussion;
+    1. What does interactive mean?
+    2. What is an interactive performance?
 - Class discussion of "Interactive Technology and Theater"
     - Please read;
         - [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130. Available from: http://muse.jhu.edu/article/35249/](http://muse.jhu.edu/article/35249/pdf)
-- Class discussion of "Inspiring examples of interactive systems and performance".
+- Digital Notebook
+	- Digital Notebook Check
+	- Class discussion of "Inspiring examples of interactive systems and performance".
 - [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
+
+
 - **DUE:**
     - demo of "digital notebook" for class
     - example of interactive systems and performance to share in class
