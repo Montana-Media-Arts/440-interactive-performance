@@ -166,6 +166,12 @@ _TODO:_
 
 - Show & Tell
     - Philippe Pasquier & Ollie Bown
+- Discussion of "Liveness"
+    - What is "Liveness"?
+    - Why does it matter?
+    - The "E-Mail Problem"...
+    - Watch:
+        - SNL "Bass Drop"
 - Roundtable discussion of Project 1 Sketches and Ideas
     - Present your idea, along with how you will make this work.
 - Individual meetings w/ Prof. Musick and work time.
