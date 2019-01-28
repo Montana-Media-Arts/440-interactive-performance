@@ -180,7 +180,8 @@ _TODO:_
 
 _Due:_
 
-    - Project 1 Sketches and Ideas
+- Project 1 Sketches and Ideas
+
 
 _TODO:_
 
