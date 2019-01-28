@@ -179,17 +179,23 @@ _TODO:_
     - Project 1 Sketches and Ideas
 - **TODO:**
     - Keep working on project 1!
+    - Please read:
+        - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
+            - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
+            - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 
 **Wednesday**
 
 - Time to work on Project 1!
 - Individual Meetings to discuss work on Project 1.
-- **Due:**
-- **TODO:**
+- Class Discussion: Tripping on Wires
     - Please read:
         - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
             - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
             - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
+
+- **Due:**
+
 
 
 
@@ -199,11 +205,6 @@ _TODO:_
 
 - Show & Tell
     - Pauline Oliveros & Sam Pluta
-- Class Discussion: Tripping on Wires
-    - Please read:
-        - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
-            - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
-            - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 - Logistics for Presentation of Project 1
     - Order
     - Needs
