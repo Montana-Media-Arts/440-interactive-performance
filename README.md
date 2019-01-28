@@ -152,10 +152,10 @@ _No Class for MLK Celebration_
     - [Please see; "Interactive Terminology" in the resources folder](./resources/week-2/interactive-terms.md)
 
 _TODO:_
-    - Work on Project 1
-        - Sketch ideas
-        - Began identifying technologies
-        - consider principles you will explore
+- Work on Project 1
+	- Sketch ideas
+	- Began identifying technologies
+	- consider principles you will explore
 
 
 
@@ -175,9 +175,11 @@ _TODO:_
 - Roundtable discussion of Project 1 Sketches and Ideas
     - Present your idea, along with how you will make this work.
 - Individual meetings w/ Prof. Musick and work time.
-- **Due:**
+
+_Due:_
     - Project 1 Sketches and Ideas
-- **TODO:**
+
+_TODO:_
     - Keep working on project 1!
     - Please read:
         - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
@@ -194,7 +196,6 @@ _TODO:_
             - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
             - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 
-- **Due:**
 
 
 
