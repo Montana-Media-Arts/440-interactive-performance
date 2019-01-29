@@ -48,12 +48,14 @@ Through this course, students are expected to;
 
 - Build their vocabulary and understanding about interactive theory that began in MART340.
 - Become versed in some of the tools and techniques available for the creation of interactive performance systems, including;
-    - real-time digital signal processing
-    - data capture, including;
-        - symbolic controllers (MIDI)
-        - audio signals via microphones
-        - physical computing (buttons, sensors, or basic electronics)
-        - computer vision (edge detection, face recognition)
+	- real-time digital signal processing
+	- data capture, including;
+		- symbolic controllers (MIDI)
+		- audio signals via microphones
+		- physical computing (buttons, sensors, or basic electronics)
+		- computer vision (edge detection, face recognition)
+	- generative creative output
+	- utilization of machine learning and AI towards creative outcomes
 - Understand how constraints and affordance are valuable tools in the design of systems.
 - Be capable of discussing how computer agency plays a role in interactive systems.
 - Describe the difference between reactive, interactive, and dynamically changing systems.
