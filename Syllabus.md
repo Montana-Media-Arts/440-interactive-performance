@@ -61,6 +61,7 @@ Through this course, students are expected to;
 - Describe the difference between reactive, interactive, and dynamically changing systems.
 - Utilize and implement an intentional system architecture following current practices and theory of interactive systems.
 - Integrate emergence as a quality of your system, design process, and creative process.
+- Practice critiquing art-based interactive performance systems and the emergent performances that occur. 
 - Walk away with at least one portfolio quality system completed and presented in performance.
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
