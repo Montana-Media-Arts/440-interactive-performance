@@ -2,7 +2,7 @@
 
 # Syllabus | Interactive Media 2; Performance (MART 440)
 
-Date modified: 01-09-2019
+Date modified: 01-17-2020
 
 **Table of Contents**
 
@@ -26,9 +26,13 @@ Date modified: 01-09-2019
 
 ## Basic Info
 
-- CRN:
+- Name: Interactive Media 2; Live Performance & ST: Interactive Media Projects
+- Course Numbers: MART 440 & MART 491-01
+- CRN: 35120 & 33055
 - Credits: 3
 - Location: McGill 127 & McGill Production Space
+- Date/Time: F, 10:00am-1:00pm
+
 
 ## Description
 
@@ -61,7 +65,7 @@ Through this course, students are expected to;
 - Describe the difference between reactive, interactive, and dynamically changing systems.
 - Utilize and implement an intentional system architecture following current practices and theory of interactive systems.
 - Integrate emergence as a quality of your system, design process, and creative process.
-- Practice critiquing art-based interactive performance systems and the emergent performances that occur. 
+- Practice critiquing art-based interactive performance systems and the emergent performances that occur.
 - Walk away with at least one portfolio quality system completed and presented in performance.
 
 Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
@@ -154,15 +158,19 @@ This class will be participatory, and you are expected to participate in discuss
 
 Grades will be determined according to the following breakdown:
 
-- Show & Tell presentations: 10%
-- In-class discussions (readings & round-table feedback), critiques, participation: 10%
-- Research Blog/Database - 10%
+- Show & Tell presentations: 5%
+- In-class discussions (readings & round-table feedback), critiques, participation, and digital notebook: 10%
+- Project 1 Sketch - 5%
 - Project 1 - 5%
 - Project 1 Documentation - 5%
-- Project 2 - 15%
+- Project 2 Sketch - 5%
+- Project 2 - 10%
 - Project 2 Documentation - 5%
-- Final Project: Interactive Performance Piece - 25%
-- Final Project Documentation - 15%
+- Project 3 - 10%
+- Project 3 Documentation - 5%
+- Final Project Sketch - 5%
+- Final Project: Interactive Performance Piece - 20%
+- Final Project Documentation - 10%
 
 Letters are assigned according to the following final course percentages:
 
@@ -184,7 +192,7 @@ Letters are assigned according to the following final course percentages:
 
 IMPORTANT: Since projects are experienced as a group in class or through a public presentation, late projects are not permissible and will not be accepted.
 
-Documentation assignments or weekly sketches handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
+Documentation assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
 
 ## Attendance
 

@@ -40,6 +40,8 @@ To do this, you may ask questions such as;
         - can the computer agents move?
     - can the human agent track projections?
     - can the human agent track sound?
+- What are abstract representations of tracking?
+- How do agents "track & follow" in the wild?
 
 ## Following
 

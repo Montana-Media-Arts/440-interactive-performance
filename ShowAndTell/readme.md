@@ -31,28 +31,31 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 
 ## Show & Tell Choices:
 
+<!--
 - Robert Rowe & Arne Eigenfeldt
     -
     - 1/23
 - Philippe Pasquier & Ollie Bown
     -
     - 1/28
-- Pauline Oliveros & Sam Pluta
-    -
-    - 2/4
-- Moldover & Imogen Heap (specifically Music Gloves)
-    -
-    - 2/11
 - Al Biles & Francois Pachet
     -
     - 2/20
+- Pauline Oliveros & Sam Pluta
+    -
+    - 1/31
+-->
+
+- Moldover & Imogen Heap (specifically Music Gloves)
+    -
+    - 1/24
 - Sound Music Movement Interaction in IRCAM
     -
     - 2/25
 - MIT Media Lab; Opera of the Future
     -
     - 3/5
-- Es Devlin & Electric Bear
+- Es Devlin
     -
     - 3/11
 - Johannes Birringer & AlienNation Co.
@@ -67,12 +70,9 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 - OpenEndedGroup
     -
     - 4/1
-
-<!-- 
 - Beaudry Interactive
     -
     - 4/16
 - Palindrome Dance Company & Troika Ranch
     -
     - 4/18
- -->
