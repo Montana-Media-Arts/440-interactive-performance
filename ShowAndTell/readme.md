@@ -47,20 +47,20 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 -->
 
 - Moldover & Imogen Heap (specifically Music Gloves)
-    -
+    - Claire Spain
     - 1/24
 - Sound Music Movement Interaction in IRCAM
     -
-    - 2/25
+    - 1/31
 - MIT Media Lab; Opera of the Future
     -
-    - 3/5
+    - 2/14
 - Es Devlin
     -
-    - 3/11
+    - 2/21
 - Johannes Birringer & AlienNation Co.
     -
-    - 3/13
+    - 2/28
 - Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
     -
     - 3/18
