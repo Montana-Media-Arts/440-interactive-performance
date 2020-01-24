@@ -134,7 +134,7 @@ _DUE:_
 In-Class:
 
 - Show & Tell 1
-    -
+    - Claire
 - Class discussion of "Interactive Systems" and "Liveness"
     - [Saltz, David Z. “Live Media: Interactive Technology and Theatre.” Theatre Topics 11.2 (2001): 107–130. Available from: http://muse.jhu.edu/article/35249/](http://muse.jhu.edu/article/35249/pdf)
     - [Drummond, Jon. “Understanding Interactive Systems.” Organised Sound 14.2 (2009): 124. Web. 9 Jan. 2014.](https://www.cambridge.org/core/journals/organised-sound/article/div-classtitleunderstanding-interactive-systemsdiv/BF81A560B5C9D96355BC400065C7A1DF)
@@ -143,6 +143,7 @@ In-Class:
 	- Digital Notebook Check
 	- Class discussion of "Inspiring examples of interactive systems and performance".
 - [Project 1 Launch](https://github.com/Montana-Media-Arts/440-interactive-performance/tree/master/Projects/Project_1/)
+    - Class discussion of Project 1 ideas.
 - Terminology Discussion
     - [Please see; "Interactive Terminology" in the resources folder](./resources/week-2/interactive-terms.md)
 
@@ -170,16 +171,18 @@ In-Class:
 - Show & Tell 2
 - Roundtable discussion of Project 1 Sketches and Ideas
     - Present your idea, along with how you will make this work.
+    - What is the status of this work?
+- Class Discussion: Tripping on Wires
+    - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
+        - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
+        - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
+    - [Frengel, Mike. “Interactivity and Liveness in Electroacoustic Concert Music.” The Oxford Handbook of Interactive Audio February (2014): 1–12. Web.](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199797226.001.0001/oxfordhb-9780199797226-e-018)
 - Discussion of "Liveness"
     - What is "Liveness"?
     - Why does it matter?
     - The "E-Mail Problem"...
     - Watch:
         - SNL "Bass Drop"
-- Class Discussion: Tripping on Wires
-    - Oliveros, Pauline. “Tripping On Wires: The Wireless Body: Who Is Improvising?” Critical Studies in Improvisation / Études critiques en improvisation 1.1 (2004): 1–7. Web. 9 Jan. 2014.
-            - [http://www.criticalimprov.com/article/view/9](http://www.criticalimprov.com/article/view/9)
-            - [PDF Download](http://www.criticalimprov.com/article/download/9/32)
 - Logistics for Presentation of Project 1
     - Order
     - Needs
@@ -378,7 +381,7 @@ Spring break
 
 
 - Show & Tell
-    - OpenEndedGroup
+    - 10 (IRCAM) & 11(MIT Media Lab)
 - Discuss Documentation
     - Please Read; [_Musick, Michael. "A Physically Distinct, Multi-Agent, Sonic Space Ecosystem". ICMC 2018 Blind-Submission._](./resources/readings/musick-icmc2018-submission.pdf)
     - Please watch; [_Musick, Michael. "PRECUNEUS; Sonic Space No. 8 – Iteration No. 4" Performance Video._](http://michaelmusick.com/precuneus_ss8_no4/) (video near bottom of page)

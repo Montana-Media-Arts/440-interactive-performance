@@ -15,9 +15,13 @@ A system, with at least 2 agents, who have an equal opportunity of affecting sta
 
 A one-way sharing of information, with the goal of changing something else.
 
+# Dynamic
+
+A system marked by usually continuous and productive activity or change.
+
 # Dynamical
 
-
+<!-- Skipping. But relates, just not sure how to present this concept yet... -->
 
 # System
 
@@ -160,7 +164,5 @@ Three basic parts of a system?
 # Closed System
 
 # Open System
-
-# Closed System
 
 # Cyber-Physical System

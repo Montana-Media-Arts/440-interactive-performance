@@ -46,33 +46,36 @@ In the first week, you will either volunteer or be assigned 2 people from the li
     - 1/31
 -->
 
-- Moldover & Imogen Heap (specifically Music Gloves)
+1. Moldover & Imogen Heap (specifically Music Gloves)
     - Claire Spain
     - 1/24
-- Sound Music Movement Interaction in IRCAM
+2. Es Devlin
     -
     - 1/31
-- MIT Media Lab; Opera of the Future
+3. Johannes Birringer & AlienNation Co.
+    -
+    - 1/31
+4. Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
     -
     - 2/14
-- Es Devlin
+5. International Magic
+    -
+    - 2/14
+6. OpenEndedGroup
     -
     - 2/21
-- Johannes Birringer & AlienNation Co.
+7. Beaudry Interactive
+    -
+    - 2/21
+8. Palindrome Dance Company & Troika Ranch
     -
     - 2/28
-- Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
+9. Ars Electronica (This is a festival. Please discuss recent winners, tracks, and types of art)
     -
-    - 3/18
-- International Magic
+    - 2/28
+10. Sound Music Movement Interaction in IRCAM + one more IRCAM Research Team of your Choice doing interesting interactive work
     -
-    - 3/20
-- OpenEndedGroup
+    - 3/27
+11. MIT Media Lab; Opera of the Future + one additional Media Lab group of your choice
     -
-    - 4/1
-- Beaudry Interactive
-    -
-    - 4/16
-- Palindrome Dance Company & Troika Ranch
-    -
-    - 4/18
+    - 3/27
