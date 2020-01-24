@@ -44,38 +44,39 @@ In the first week, you will either volunteer or be assigned 2 people from the li
 - Pauline Oliveros & Sam Pluta
     -
     - 1/31
+- Sound Music Movement Interaction in IRCAM + one more IRCAM Research Team of your Choice doing interesting interactive work
 -->
 
 1. Moldover & Imogen Heap (specifically Music Gloves)
     - Claire Spain
     - 1/24
 2. Es Devlin
-    -
+    - Miya Fordah
     - 1/31
 3. Johannes Birringer & AlienNation Co.
-    -
+    - Don
     - 1/31
 4. Stelarc (especially Fractal Flesh) & Riverbed Media, Bill T. Jones, & Paul Kaiser
-    -
+    - Joe Godfrey
     - 2/14
 5. International Magic
-    -
+    - Charlene
     - 2/14
 6. OpenEndedGroup
-    -
+    - Fred
     - 2/21
 7. Beaudry Interactive
-    -
+    - Alex
     - 2/21
 8. Palindrome Dance Company & Troika Ranch
-    -
+    - Nathan
     - 2/28
 9. Ars Electronica (This is a festival. Please discuss recent winners, tracks, and types of art)
-    -
+    - Mike Stevens
     - 2/28
-10. Sound Music Movement Interaction in IRCAM + one more IRCAM Research Team of your Choice doing interesting interactive work
-    -
+10. Possibilities of VR and Interactivity
+    - Tina
     - 3/27
 11. MIT Media Lab; Opera of the Future + one additional Media Lab group of your choice
-    -
+    - Charlie
     - 3/27
