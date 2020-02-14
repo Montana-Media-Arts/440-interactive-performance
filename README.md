@@ -220,7 +220,6 @@ In-Class:
 In-Class:
 
 - Show & Tell
-    - Moldover & Imogen Heap (specifically Music Gloves)
 - Discussion & Wrap-up of _Project 1_
     - What was successful?
     - What was a failure?
@@ -246,12 +245,11 @@ In-Class:
 
 ## Week 6
 
-
+- Show & Tell
 - Project 2 Round Table of Sketches and Proposals
-
-- **TODO:**
 - **Due:**
     - Project 2 Round Table of Sketches and Proposals
+- **TODO:**
 
 
 
@@ -259,8 +257,17 @@ In-Class:
 
 
 - Show & Tell
-    - Sound Music Movement Interaction in IRCAM
-- Project 2 Round Table and Proposals \[finish from last week\]
+- Break-Out Group Problem Solving
+    - In the small groups created on Monday, you are to;
+    - Present the current state of your project.
+    - Discuss one technical problem you have encountered.
+    - Discuss one artistic problem you have encountered.
+    - Help you group-mates solve their problems.
+- Logistics for Presentation of Project 2
+    - Order
+    - Needs
+    - Time
+    - I/O
 - Ideas and Discussions
     - [Works | INITI](http://www.initi.org)
     - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
@@ -277,19 +284,6 @@ In-Class:
 - **Due:**
 
 
-- Break-Out Group Problem Solving
-    - In the small groups created on Monday, you are to;
-        - Present the current state of your project.
-        - Discuss one technical problem you have encountered.
-        - Discuss one artistic problem you have encountered.
-        - Help you group-mates solve their problems.
-- Feedback on Project 1 Documentation and Write-Up
-    - Where do we go from here?
-    - What did you miss?
-    - What was  confusing?
-- **TODO:**
-- **Due:**
-
 
 
 ## Week 8
@@ -297,30 +291,18 @@ In-Class:
 **(Project 2 Due)**
 
 
-- Show & Tell
-    - MIT Media Lab; Opera of the Future
-- Logistics for Presentation of Project 2
-    - Order
-    - Needs
-    - Time
-    - I/O
-- Documentation and Write-Up of Presentation 2
-- **TODO:**
-- **Due:**
-
-
 - Project 2 Performances in Class
 - **Due:**
     - Project 2
 - **TODO:**
+    - Documentation and Write-Up of Presentation 2
+- **Due:**
 
 
 
 ## Week 9
 
 
-- Show & Tell
-    - Es Devlin & Electric Bear
 - **Due:**
     - Project 2 Documentation
 - **TODO:**
