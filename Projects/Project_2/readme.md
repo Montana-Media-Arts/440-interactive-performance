@@ -1,9 +1,9 @@
 # Project 2 | Tracking & Following
 
-- _Launch: Wednesday, February 13th_
-- _Sketch due: Wednesday, February 20th_
-- **Project due:** Wednesday, March 6th
-- **Documentation due:** Monday, March 11th
+- _Launch: Friday, February 14th_
+- _Sketch due: Friday, February 21st_
+- **Project due:** Friday, March 6th
+- **Documentation due:** Friday, March 13th
 
 
 # Description
