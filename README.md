@@ -245,10 +245,22 @@ In-Class:
 
 ## Week 6
 
-- Show & Tell
-- Project 2 Round Table of Sketches and Proposals
 - **Due:**
     - Project 2 Round Table of Sketches and Proposals
+- Show & Tell
+- Project 2 Round Table of Sketches and Proposals
+- Ideas and Discussions
+    - [Works | INITI](http://www.initi.org)
+    - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
+    - [WHITEvoid Studio - YouTube](https://www.youtube.com/channel/UC6X99PNIbP15HR5Pvqj28vA)
+    - [Box - YouTube](https://www.youtube.com/watch?v=lX6JcybgDFo)
+    - [Winner of iMapp Bucharest 2017 - Gong Zhen - “ Another World “ - YouTube](https://www.youtube.com/watch?v=C6-UCkS7lKw)
+    - [PROJECTION MAPPING MAGIC AT ISE 2017 - YouTube](https://www.youtube.com/watch?v=QzppfCSJodY)
+    - [Real Time Tracking & Projection Mapping (Full ver.) - YouTube](https://www.youtube.com/watch?v=XkXrLZmnQ_M)
+    - http://projection-mapping.org
+- Resources
+    - [Processing and Keystone - Doing Projection Mapping](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/#processing-setup)
+    - [touchDesigner](http://www.derivative.ca)
 - **TODO:**
 
 
@@ -268,18 +280,7 @@ In-Class:
     - Needs
     - Time
     - I/O
-- Ideas and Discussions
-    - [Works | INITI](http://www.initi.org)
-    - [Tron Legacy Premiere an ENESS Light Session on Vimeo](https://vimeo.com/17872715)
-    - [WHITEvoid Studio - YouTube](https://www.youtube.com/channel/UC6X99PNIbP15HR5Pvqj28vA)
-    - [Box - YouTube](https://www.youtube.com/watch?v=lX6JcybgDFo)
-    - [Winner of iMapp Bucharest 2017 - Gong Zhen - “ Another World “ - YouTube](https://www.youtube.com/watch?v=C6-UCkS7lKw)
-    - [PROJECTION MAPPING MAGIC AT ISE 2017 - YouTube](https://www.youtube.com/watch?v=QzppfCSJodY)
-    - [Real Time Tracking & Projection Mapping (Full ver.) - YouTube](https://www.youtube.com/watch?v=XkXrLZmnQ_M)
-    - http://projection-mapping.org
-- Resources
-    - [Processing and Keystone - Doing Projection Mapping](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/#processing-setup)
-    - [touchDesigner](http://www.derivative.ca)
+
 - **TODO:**
 - **Due:**
 
